@@ -1,1 +1,1 @@
-Superstore Sales Power BIDashboard
+Superstore Sales Power BI Dashboard
